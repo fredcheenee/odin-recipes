@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-    background-color: #3333;
+    background-image: linear-gradient(to right ,#A1C4FD , #C2E9FB);
     align-items: center;
     justify-content: center;
     font-family: sans-serif;
