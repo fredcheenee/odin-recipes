@@ -10,10 +10,7 @@ body {
 
 .wrapper {
     display: flex;
-    margin-left: 20px;
-    margin-right: 500px;
-    margin-top: 50px;
-    margin-bottom: auto;
+;
     /* background-color: beige; */
 
 }
@@ -34,9 +31,12 @@ h2 {
 
 .steps {
     padding-top: 20px;
+   
 }
 
 img {
+    height: 400px;
+    width: auto;
     margin-left: 40px;
     border-style: groove;
 }
